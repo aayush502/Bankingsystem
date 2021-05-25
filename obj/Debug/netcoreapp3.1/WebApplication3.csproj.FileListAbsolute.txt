@@ -164,3 +164,10 @@ C:\Users\humag\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp
 C:\Users\humag\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\humag\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\humag\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
